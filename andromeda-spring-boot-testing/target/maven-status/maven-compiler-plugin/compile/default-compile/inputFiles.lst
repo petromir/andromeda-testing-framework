@@ -1,0 +1,6 @@
+/Users/petromir/DEV/workspace/my/andromeda-framework/andromeda-spring-boot-testing/src/main/java/com/petromirdzhunev/cucumber/spring/beans/MockHttpServerWrapper.java
+/Users/petromir/DEV/workspace/my/andromeda-framework/andromeda-spring-boot-testing/src/main/java/com/petromirdzhunev/cucumber/spring/beans/PostgreSQLDatabaseTruncator.java
+/Users/petromir/DEV/workspace/my/andromeda-framework/andromeda-spring-boot-testing/src/main/java/com/petromirdzhunev/cucumber/spring/context/HttpServerScenarioContext.java
+/Users/petromir/DEV/workspace/my/andromeda-framework/andromeda-spring-boot-testing/src/main/java/com/petromirdzhunev/cucumber/steps/DbSteps.java
+/Users/petromir/DEV/workspace/my/andromeda-framework/andromeda-spring-boot-testing/src/main/java/com/petromirdzhunev/cucumber/steps/HttpClientSteps.java
+/Users/petromir/DEV/workspace/my/andromeda-framework/andromeda-spring-boot-testing/src/main/java/com/petromirdzhunev/cucumber/steps/MockHttpServerSteps.java
